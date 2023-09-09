@@ -10,6 +10,14 @@ url: "https://ksoc-gradsac.github.io"
 twitter_username: ksoc-gradsac
 github_username:  ksoc-gradsac
 
+# build pages for resources folder
+collections:
+  resources:
+    output: true
+
+# use Github-flavored markdown https://github.github.com/gfm/
+markdown: GFM
+
 # Build settings
 theme: minima
 plugins:
