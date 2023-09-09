@@ -1,0 +1,16 @@
+# Jekyll config file
+
+# overall settings
+title: KSoC GradSAC Website
+email: gradsac@cs.utah.edu
+description: >- 
+  An informational website for the Graduate Student Advisory Committee (GradSAC) of the Kahlert School of Computing at the University of Utah.
+baseurl: ""
+url: "https://ksoc-gradsac.github.io" 
+twitter_username: ksoc-gradsac
+github_username:  ksoc-gradsac
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
