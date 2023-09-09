@@ -61,9 +61,9 @@ enable_copy_code_button: true
 heading_anchors: true
 
 # Aux links for the upper right navigation
-aux_links:
-  "Just the Docs on GitHub":
-    - "https://github.com/just-the-docs/just-the-docs"
+# aux_links:
+#   "KSoC Website":
+#     - "https://cs.utah.edu/"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
@@ -74,8 +74,12 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # External navigation links
 nav_external_links:
-  - title: Just the Docs on GitHub
-    url: https://github.com/just-the-docs/just-the-docs
+  - title: Events Calendar
+    url: https://www.cs.utah.edu/calendar/
+  # - title: KSoC Website
+  #   url: https://cs.utah.edu/
+  
+
 
 # Footer content
 # appears at the bottom of every page's main content
@@ -84,26 +88,24 @@ nav_external_links:
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Copyright &copy; 2017-2020 Patrick Marsceill. Distributed by an <a href=\"https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt\">MIT license.</a> <a href=\"https://www.netlify.com/\">This site is powered by Netlify.</a>"
+footer_content: "Copyright &copy; 2023"
 
 # Footer last edited timestamp
-last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
-last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+last_edit_timestamp: true 
+last_edit_time_format: "%b %e %Y at %I:%M %p" 
 
 
 
 # Footer "Edit this page on GitHub" link text
-gh_edit_link: true # show or hide edit this page link
+gh_edit_link: true 
 gh_edit_link_text: "Edit this page on GitHub"
-gh_edit_repository: "https://github.com/just-the-docs/just-the-docs" # the github URL for your repo
-gh_edit_branch: "main" # the branch that your docs is served from
-# gh_edit_source: docs # the source that your files originate from
-gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+gh_edit_repository: "https://github.com/ksoc-gradsac/ksoc-gradsac.github.io" 
+gh_edit_branch: "main" 
+gh_edit_view_mode: "tree"
 
-# Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
 color_scheme: nil
 
-callouts_level: quiet # or loud
+callouts_level: quiet
 callouts:
   highlight:
     color: yellow
@@ -127,5 +129,3 @@ compress_html:
   startings: []
   blanklines: false
   profile: false
-  # ignore:
-  #   envs: all
