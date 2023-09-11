@@ -6,7 +6,7 @@ email: gradsac@cs.utah.edu
 description: >- 
   An informational website for the Graduate Student Advisory Committee (GradSAC) of the Kahlert School of Computing at the University of Utah.
 baseurl: ""
-url: "https://ksoc-gradsac.github.io" 
+url: "http://gradsac.cs.utah.edu/" 
 twitter_username: ksoc-gradsac
 github_username:  ksoc-gradsac
 repository: ksoc-gradsac/ksoc-gradsac.github.io
