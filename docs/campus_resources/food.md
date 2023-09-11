@@ -5,3 +5,5 @@ parent: Campus Resources
 ---
 
 information about food
+Kafe Mamai
+Chimmichurri Grill
