@@ -13,9 +13,6 @@ repository: ksoc-gradsac/ksoc-gradsac.github.io
 
 permalink: pretty
 
-# use Github-flavored markdown https://github.github.com/gfm/
-markdown: GFM
-
 # Build settings
 theme: just-the-docs
 plugins:
@@ -91,10 +88,6 @@ back_to_top_text: "Back to top"
 
 footer_content: "Copyright &copy; 2023"
 
-# Footer last edited timestamp
-last_edit_timestamp: true 
-last_edit_time_format: "%b %e %Y at %I:%M %p" 
-
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true 
 gh_edit_link_text: "Edit this page on GitHub"
@@ -120,6 +113,11 @@ callouts:
   warning:
     title: Warning
     color: red
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
 
 compress_html:
   clippings: all

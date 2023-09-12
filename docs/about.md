@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-nav_order: 5
+nav_order: 1
 ---
 
 info about gradsac
