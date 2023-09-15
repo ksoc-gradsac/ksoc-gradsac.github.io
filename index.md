@@ -14,10 +14,10 @@ To reach out to the current members of GradSAC, email us at [gradsac@cs.utah.edu
 
 #### Fall 2022 — Fall 2023
 
-| Person | Position |
+| Position | Person |
 | --- | --- |
-| Jakob Johnson | President |
-| Ahn Tran | Vice President |
+| President | Jakob Johnson | 
+| Vice President | Ahn Tran | 
 | New Student Facilitator | Noelle Brown |
 | Secretary | Alper Sahistan |
 | Communications Coordinator | Prikshit Tekta |
