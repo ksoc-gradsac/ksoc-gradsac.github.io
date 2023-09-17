@@ -21,6 +21,7 @@ The Undistinguished Lecture Series (UDLS) is a set of talks given by (typically)
 | 2023-12-14 | GradSAC                                         | Holiday Party   |
 
 ## Past UDLS Lineups
+
 ### Spring 2023
 | Date       | Speaker                                    | Topic                                        |
 |------------|------------------------------------------------|----------------------------------------------|
@@ -31,6 +32,7 @@ The Undistinguished Lecture Series (UDLS) is a set of talks given by (typically)
 | 2023-03-16 | [Saurabh Raje](mailto:saurabh.raje@utah.edu)   | Pulling a perfect shot: Espresso             |
 | 2023-03-30 | [Ananth Krishna](mailto:ananth@cs.utah.edu)    | TBD                                          |
 | 2023-04-13 | [Kangchen Chen](mailto:u1419471@utah.edu)     | "Language and dialect, a discussion about the power of words"     |
+
 ### Fall 2022
 | Date       | Speaker                             | Topic                                                   |
 |------------|-----------------------------------------|---------------------------------------------------------|
@@ -39,6 +41,7 @@ The Undistinguished Lecture Series (UDLS) is a set of talks given by (typically)
 | 2022-10-20 | [Jakob Johnson](mailto:jakob.johnson@utah.edu)   | Bike Racing                                             |
 | 2022-11-03 | [Alper Sahistan](mailto:u1406260@utah.edu)     | Howard the Duck or "How to get your intellectual property back?" |
 | 2022-12-01 | [Eisen Montalvo](mailto:eisen.montalvo@utah.edu) | Missile Defender                                        |
+
 ### Fall 2018
 | Date       | Speaker                                                                                      | Topic                                  |
 |------------|----------------------------------------------------------------------------------------------|----------------------------------------|
@@ -52,6 +55,7 @@ The Undistinguished Lecture Series (UDLS) is a set of talks given by (typically)
 | 2018-09-21 | Rushit “Rush” Sanghrajka                                                                      | Lessons from the Labor Movement        |
 | 2018-09-14 | [Riddhish Bhalodia](https://web.archive.org/web/20200923154818/http://www.sci.utah.edu/~riddhishb/) | Unification of Japan: Sengoku Jidai |
 | 2018-09-07 | Sumanth Gudaparthi and [Ian Mallett](https://web.archive.org/web/20200923154818/https://geometrian.com/) | All about GradSAC (and all about UDLS) |
+
 ### Spring 2018
 | Date       | Speaker                                                                                      | Topic                                  |
 |------------|----------------------------------------------------------------------------------------------|----------------------------------------|
@@ -69,6 +73,7 @@ The Undistinguished Lecture Series (UDLS) is a set of talks given by (typically)
 | 2018-02-02 | Chris Brooks                                                                                 | How big can numbers be?                |
 | 2018-01-26 | Ned Peters                                                                                   | The South Seas Company: Making Enron Look Good |
 | 2018-01-19 | [Riddhish Bhalodia](https://web.archive.org/web/20200923154818/http://www.sci.utah.edu/~riddhishb/) | Game Balancing                     |
+
 ### Fall 2017
 | Date       | Speaker                                                                                   | Topic                                                                                                                |
 |------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
@@ -84,6 +89,7 @@ The Undistinguished Lecture Series (UDLS) is a set of talks given by (typically)
 | 2017-09-15 | [Will Byrd](https://web.archive.org/web/20200923154818/http://webyrd.net/)             | Thoughts on giving a talk                                                                                            |
 | 2017-09-08 | Nipun Gottapu                                                                             | Fancy Pigeons                                                                                                        |
 | 2017-09-01 | [Ian Mallett](https://web.archive.org/web/20200923154818/https://geometrian.com/)      | [UDLS Intro and Folk Tales From the North](/web/20200923154818/http://wiki.cs.utah.edu/_media/udls-folktales-from-the-north.pdf) |
+
 ### Spring 2017
 | Date       | Speaker                                                                                   | Topic               |
 |------------|-------------------------------------------------------------------------------------------|---------------------|
@@ -101,6 +107,7 @@ The Undistinguished Lecture Series (UDLS) is a set of talks given by (typically)
 | 2017-02-03 | Guru Pragaash                                                                            | The Trolley Problem |
 | 2017-01-27 | Celeste Hollenbeck                                                                        | Cognitive Load      |
 | 2017-01-20 | [Will Byrd](https://web.archive.org/web/20200923154818/http://webyrd.net/)             | Nanotechnology      |
+
 ### Fall 2016
 | Date       | Speaker                                                                                   | Topic                                                                                                            |
 |------------|-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
@@ -117,6 +124,7 @@ The Undistinguished Lecture Series (UDLS) is a set of talks given by (typically)
 | 2016-09-16 | Chris Brooks                                                                             | Tool assisted speedrunning                                                                                       |
 | 2016-09-09 | Josh Kunz                                                                                | Conspiracies                                                                                                     |
 | 2016-09-02 | [Will Byrd](https://web.archive.org/web/20200923154818/http://webyrd.net/)             | History of Writing                                                                                               |
+
 ### Spring 2016
 | Date       | Speaker                     | Topic                         |
 |------------|-----------------------------|-------------------------------|
@@ -134,6 +142,7 @@ The Undistinguished Lecture Series (UDLS) is a set of talks given by (typically)
 | 2016-01-29 | Scotty Bauer                | Cold Fusion                   |
 | 2016-01-22 | [Ian Mallett](https://web.archive.org/web/20200923154818/https://geometrian.com/) | Realities of Space (KSP)      |
 | 2016-01-15 | Michael Ballantyne          | TempleOS                      |
+
 ### Fall 2015
 | Date       | Speaker                                                                                                                         | Topic                                                    |
 |------------|---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
@@ -150,6 +159,7 @@ The Undistinguished Lecture Series (UDLS) is a set of talks given by (typically)
 | 2015-09-18 | Chris Brooks                                                                                                                   | Super Smash Brothers as a Spectator Sport               |
 | 2015-09-11 | Mark Baranowski                                                                                                                | Speaking Semi-Highly About Rust                         |
 | 2015-09-04 | Celeste Hollenbeck                                                                                                              | How to Give a UDLS Lecture / Demo: Now We're Going to Talk About Some Awesome Horror Movies |
+
 ### Spring 2015
 | Date       | Speaker                              | Topic                                 |
 |------------|--------------------------------------|---------------------------------------|
@@ -165,6 +175,7 @@ The Undistinguished Lecture Series (UDLS) is a set of talks given by (typically)
 | 2015-01-30 | Lucas Paul                           | The Double-Slit Experiment            |
 | 2015-01-23 | Christian Schreiner                  | Computer Engineering for the Apollo Missions |
 | 2015-01-16 | [Will Byrd](https://web.archive.org/web/20200923154818/http://webyrd.net/)         | Rockets, the moon, space, and the Cold War |
+
 ### Fall 2014
 | Date       | Speaker                  | Topic                                  |
 |------------|--------------------------|----------------------------------------|
@@ -181,6 +192,7 @@ The Undistinguished Lecture Series (UDLS) is a set of talks given by (typically)
 | 2014-09-19 | Adiyta Dave              | Hadoop                                 |
 | 2014-09-12 | Misc.                    | Lightning Research Talks               |
 | 2014-09-05 | James Nagel              | Martial Arts                           |
+
 ### Spring 2014
 | Date       | Speaker                                  | Topic                                                      |
 |------------|------------------------------------------|------------------------------------------------------------|
@@ -198,6 +210,7 @@ The Undistinguished Lecture Series (UDLS) is a set of talks given by (typically)
 | 2014-01-24 | Chris Earl                              | Bitcoin                                                    |
 | 2014-01-17 | Leif Andersen                            | Video Game Development                                     |
 | 2014-01-10 | [Dustin Webb](https://www.cs.utah.edu/~dustin) | ROS (Robotic Operating System)                             |
+
 ### Fall 2013
 | Date       | Speaker                                  | Topic                                                                                                                                                                    |
 |------------|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
