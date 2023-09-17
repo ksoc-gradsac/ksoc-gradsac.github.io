@@ -4,6 +4,14 @@ title: Undistinguised Lecture Series
 parent: Events
 ---
 
+{: .no_toc }
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 A bi-weekly graduate student-run event, Thursdays at 5pm in the LCR. Feel free to bring your own games or make some friends and have fun! Free pizza provided by the SoC.
 
 The Undistinguished Lecture Series (UDLS) is a set of talks given by (typically) grad students in the School of Computing at the University of Utah. UDLS gives us a chance to learn about the incredibly vast interests of our fellow grad students, while also practicing our speaking skills. There is only one rule: you must present an original topic that does not pertain to your research.
