@@ -18,39 +18,39 @@ The Undistinguished Lecture Series (UDLS) is a set of talks given by (typically)
 
 ## Fall 2023 (Current)
 
-| Date       | Speaker                              | Topic                                                 |
-| ---------- | ------------------------------------ | ----------------------------------------------------- |
-| 2023-09-07 | Kosumi                               | Nix magic: reproducible build and configuration       |
-| 2023-09-21 | [Jakob Johnson](https://jakobj.dev/) | Kombucha                                              |
-| 2023-10-05 | John Jacobson                        | BBQ and smoked meat                                   |
-| 2023-10-19 | Gaurav Sharma                        | The different mediums of Horror                       |
-| 2023-11-02 | Elie Diaz                            | Barbershop Quartetting: An Hour with Mischief Quartet |
-| 2023-11-16 | Ashton Wiersdorf                     | The Joy of Tool Forges, or: My Emacs Addiction        |
-| 2023-11-30 | Harvey Dam                           | How to Play Concertos Alone                           |
+| Date       | Speaker                                     | Topic                                                        |
+| ---------- | ------------------------------------------- | ------------------------------------------------------------ |
+| 2023-09-07 | Kosumi                                      | Nix magic: reproducible build and configuration              |
+| 2023-09-21 | [Jakob Johnson](https://jakobj.dev/)        | Kombucha                                                     |
+| 2023-10-05 | John Jacobson                               | BBQ and smoked meat                                          |
+| 2023-10-19 | Gaurav Sharma                               | The different mediums of Horror                              |
+| 2023-11-02 | Elie Diaz                                   | Barbershop Quartetting: An Hour with Mischief Quartet        |
+| 2023-11-16 | [Ashton Wiersdorf](https://lambdaland.org/) | On Gumption: a tool enthusiast’s guide to joyful programming |
+| 2023-11-30 | Harvey Dam                                  | How to Play Concertos Alone                                  |
 
 ## Past UDLS Lineups
 
 ### Spring 2023
 
-| Date       | Speaker                              | Topic                                                         |
-| ---------- | ------------------------------------ | ------------------------------------------------------------- |
-| 2023-01-19 | [Jakob Johnson](https://jakobj.dev/) | Coffee Brewing                                                |
-| 2023-02-02 | Benjamin Mastripolito                | The Hypnotic World of Esoteric Literature                     |
-| 2023-02-16 | Ashton Wiersdorf                     | Down the rabbit hole: mechanical keyboards                    |
-| 2023-03-02 | Brandt Redd                          | Inflated Consequences of Standardized Testing                 |
-| 2023-03-16 | Saurabh Raje                         | Pulling a perfect shot: Espresso                              |
-| 2023-03-30 | Ananth Krishna                       | TBD                                                           |
-| 2023-04-13 | Kangchen Chen                        | "Language and dialect, a discussion about the power of words" |
+| Date       | Speaker                                           | Topic                                                         |
+| ---------- | ------------------------------------------------- | ------------------------------------------------------------- |
+| 2023-01-19 | [Jakob Johnson](https://jakobj.dev/)              | Coffee Brewing                                                |
+| 2023-02-02 | [Benjamin Mastripolito](https://benpm.github.io/) | The Hypnotic World of Esoteric Literature                     |
+| 2023-02-16 | [Ashton Wiersdorf](https://lambdaland.org/)       | Down the rabbit hole: mechanical keyboards                    |
+| 2023-03-02 | Brandt Redd                                       | Inflated Consequences of Standardized Testing                 |
+| 2023-03-16 | Saurabh Raje                                      | Pulling a perfect shot: Espresso                              |
+| 2023-03-30 | Ananth Krishna                                    | TBD                                                           |
+| 2023-04-13 | Kangchen Chen                                     | "Language and dialect, a discussion about the power of words" |
 
 ### Fall 2022
 
-| Date       | Speaker                              | Topic                                                            |
-| ---------- | ------------------------------------ | ---------------------------------------------------------------- |
-| 2022-09-22 | Anh Tran                             | Lord of The Ring, a Lit Review (the fun one)                     |
-| 2022-10-06 | Benjamin Mastripolito                | How to Make Sound With Your Eyes                                 |
-| 2022-10-20 | [Jakob Johnson](https://jakobj.dev/) | Bike Racing                                                      |
-| 2022-11-03 | Alper Sahistan                       | Howard the Duck or "How to get your intellectual property back?" |
-| 2022-12-01 | Eisen Montalvo                       | Missile Defender                                                 |
+| Date       | Speaker                                                          | Topic                                                            |
+| ---------- | ---------------------------------------------------------------- | ---------------------------------------------------------------- |
+| 2022-09-22 | Anh Tran                                                         | Lord of The Ring, a Lit Review (the fun one)                     |
+| 2022-10-06 | [Benjamin Mastripolito](https://benpm.github.io/)                | How to Make Sound With Your Eyes                                 |
+| 2022-10-20 | [Jakob Johnson](https://jakobj.dev/)                             | Bike Racing                                                      |
+| 2022-11-03 | [Alper Sahistan](https://alpers-git.github.io/personal-website/) | Howard the Duck or "How to get your intellectual property back?" |
+| 2022-12-01 | Eisen Montalvo                                                   | Missile Defender                                                 |
 
 ### Fall 2018
 
