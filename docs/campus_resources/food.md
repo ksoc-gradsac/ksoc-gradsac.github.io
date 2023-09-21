@@ -20,10 +20,17 @@ parent: Campus Resources
 
  - [Chimmichurri Grill](https://thechimichurrigrill.com/): South American food truck located east of the library.
 
- - [Urban Pioneer Cafe](https://www.urbanpioneercafe.com/): Coffee Shop and Sandwiches/Salads, located in the Sorensen Biotech Building.  
+ - [Urban Pioneer Cafe](https://www.urbanpioneercafe.com/): Coffee Shop and Sandwiches/Salads, located in the Sorensen Biotech Building.
+
+ - [Dine On Campus - Utah](https://dineoncampus.com/utah/): Other locations affiliated with the UofU Dining Services.
 
 ## Off-campus food
+
  - [Caffe Niche](https://www.caffeniche.com/): Brunch restaurant, 800 E and 300 S.
+
+ - [The Pie Pizzeria](https://www.thepie.com/): Pizza restaurant, 1320 East and 200 South near the Presidents' Circle.
+
+ - [Indochine Vietnamese Bistro](https://www.indochinesaltlake.com/): 230 South 1300 East near the Presidents' Circle.
 
 ## Coffee Shops
  - [Salt Lake Roasting Co](https://roasting.com/): Local coffee roaster, located right next to the 900 E TRAX stop. A popular place to study.
