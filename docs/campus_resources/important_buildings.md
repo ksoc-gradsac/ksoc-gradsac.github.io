@@ -34,9 +34,27 @@ Quick Info:
 - SCI Institute (3rd and 4th Floor)
 
 ## A. Ray Olpin Student Union
-[Google Maps](https://maps.app.goo.gl/GPx9f5p1CTK2AZoe6) [Website](https://union.utah.edu/)
+[Google Maps](https://maps.app.goo.gl/GPx9f5p1CTK2AZoe6)
 
-- Food Court
+[Website](https://union.utah.edu/)
+
+- Food Court and Feed U Pantry
 - ISSS Office
-- Bowling and Pool Area
-- Student Events
+- Work Stations
+- Bowling and other recreation
+- Student Events - [Upcoming](https://union.utah.edu/events-scheduling/upcoming-events/)
+
+## George S Eccles Student Life Center
+[Google Maps](https://maps.app.goo.gl/yToyWT8XnaZmHMqs5)
+
+[Website](https://campusrec.utah.edu/)
+
+- [Facilities, Timing, and Usage](https://campusrec.utah.edu/about/facilities/index.php) has (but is not limited to) a gym, swimming, and multiple indoor courts
+- [Rental Shop and Outdoor Adventures](https://campusrec.utah.edu/outdoor-adventures/index.php)
+
+## Student Health Center
+[Google Maps](https://maps.app.goo.gl/6J7GGFti1VtUMHeC9)
+
+[Website](https://studenthealth.utah.edu/)
+
+[Scheduling](https://studenthealth.utah.edu/appointments/index.php)
