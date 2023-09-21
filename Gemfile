@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 # theme
 gem "minima", "~> 2.5"
-gem "just-the-docs", "~> 0.6.1"
+gem "just-the-docs", "~> 0.6.2"
 
 # gem "jekyll", "~> 4.3.2"
 gem "github-pages", "~> 228", group: :jekyll_plugins
