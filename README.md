@@ -12,6 +12,4 @@ An informational website for the U of U KSoC GradSAC.
 6. Test changes with `bundle exec jekyll serve`
 7. Make a pull request to change content.
 
-If you're simply updating existing markdown files, you probably don't need to test it, but make sure to follow the [markdown style](https://github.github.com/gfm/) so you know what the end result will look like. 
-
 The website uses the [Just The Docs](https://github.com/just-the-docs/just-the-docs) theme, and you need to organize pages using it's navigation order configuration. More info can be found [here.](https://just-the-docs.com/docs/navigation-structure/#pages-with-children)
