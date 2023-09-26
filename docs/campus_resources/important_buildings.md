@@ -44,17 +44,26 @@ Quick Info:
 - Bowling and other recreation
 - Student Events - [Upcoming](https://union.utah.edu/events-scheduling/upcoming-events/)
 
+## J. Willard Marriott Library
+[Google Maps](https://maps.app.goo.gl/WTyx1QckXicywB4J9)
+
+[Website](https://lib.utah.edu/)
+
+- [Rooms and Spaces to study](https://lib.utah.edu/spaces/)
+- [Knowledge Commons](https://lib.utah.edu/services/knowledge-commons/index.php) offers many services including printing and equipment checkout
+
 ## George S Eccles Student Life Center
 [Google Maps](https://maps.app.goo.gl/yToyWT8XnaZmHMqs5)
 
 [Website](https://campusrec.utah.edu/)
 
 - [Facilities, Timing, and Usage](https://campusrec.utah.edu/about/facilities/index.php) has (but is not limited to) a gym, swimming, and multiple indoor courts
-- [Rental Shop and Outdoor Adventures](https://campusrec.utah.edu/outdoor-adventures/index.php)
+- [Rental Shop and Outdoor Adventures](https://campusrec.utah.edu/outdoor-adventures/index.php) can be used to rent equipment at a very affordable rate
 
 ## Student Health Center
 [Google Maps](https://maps.app.goo.gl/6J7GGFti1VtUMHeC9)
 
 [Website](https://studenthealth.utah.edu/)
 
-[Scheduling](https://studenthealth.utah.edu/appointments/index.php)
+- [Scheduling appointments](https://studenthealth.utah.edu/appointments/index.php)
+- [Health Insurance Information](https://studenthealth.utah.edu/insurance/index.php)
