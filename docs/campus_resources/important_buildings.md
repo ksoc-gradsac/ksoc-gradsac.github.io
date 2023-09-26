@@ -65,5 +65,5 @@ Quick Info:
 
 [Website](https://studenthealth.utah.edu/)
 
-- [Scheduling](https://studenthealth.utah.edu/appointments/index.php) appointments
+- [Scheduling appointments](https://studenthealth.utah.edu/appointments/index.php)
 - [Health Insurance Information](https://studenthealth.utah.edu/insurance/index.php)
