@@ -18,15 +18,15 @@ The Undistinguished Lecture Series (UDLS) is a set of talks given by (typically)
 
 ## Fall 2023 (Current)
 
-| Date       | Speaker                                     | Topic                                                                   |
-| ---------- | ------------------------------------------- | ----------------------------------------------------------------------- |
-| 2023-09-07 | Kosumi                                      | Nix magic: reproducible build and configuration                         |
-| 2023-09-21 | [Jakob Johnson](https://jakobj.dev/)        | Kombucha                                                                |
-| 2023-10-05 | John Jacobson                               | BBQ and smoked meat                                                     |
-| 2023-10-19 | Gaurav Sharma                               | The different mediums of Horror                                         |
-| 2023-11-02 | Elie Diaz                                   | Barbershop Quartetting: An Hour with Mischief Quartet                   |
-| 2023-11-16 | [Ashton Wiersdorf](https://lambdaland.org/) | Zen and the Art of Software Maintenance, or: Gumption, Tools, and Traps |
-| 2023-11-30 | Harvey Dam                                  | How to Play Concertos Alone                                             |
+| Date       | Speaker                                           | Topic                                                                   |
+| ---------- | ------------------------------------------------- | ----------------------------------------------------------------------- |
+| 2023-09-07 | Kosumi                                            | Nix magic: reproducible build and configuration                         |
+| 2023-09-21 | [Jakob Johnson](https://jakobj.dev/)              | Kombucha                                                                |
+| 2023-10-05 | [Benjamin Mastripolito](https://benpm.github.io/) | Emergent, Evolving, and Self-Organizing Systems                         |
+| 2023-10-19 | Gaurav Sharma                                     | The different mediums of Horror                                         |
+| 2023-11-02 | Elie Diaz                                         | Barbershop Quartetting: An Hour with Mischief Quartet                   |
+| 2023-11-16 | [Ashton Wiersdorf](https://lambdaland.org/)       | Zen and the Art of Software Maintenance, or: Gumption, Tools, and Traps |
+| 2023-11-30 | Harvey Dam                                        | How to Play Concertos Alone                                             |
 
 ## Past UDLS Lineups
 
