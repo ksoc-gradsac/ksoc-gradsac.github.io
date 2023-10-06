@@ -9,8 +9,22 @@ Welcome! The Graduate Student Advisory Committee (GradSAC) is a graduate student
 
 ### Contact Info
 To reach out to the current members of GradSAC, email us at [gradsac@cs.utah.edu](mailto:gradsac@cs.utah.edu), or post on the #gradsac channel of the Kahlert School of Computing Slack!
-
 ### Current Officers
+
+#### Fall 2023 — Fall 2024
+
+| Position | Person |
+| --- | --- |
+| President | Jakob Johnson | 
+| Vice President | Soham Bagchi | 
+| Treasurer | — |
+| New Student Facilitator | — |
+| Secretary | — |
+| Communications Coordinator | Ramansh Sharma |
+| Social Event Coordinator  | Benjamin Mastripolito |
+
+
+### Past Officers
 
 #### Fall 2022 — Fall 2023
 
