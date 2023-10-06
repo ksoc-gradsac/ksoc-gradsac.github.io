@@ -13,26 +13,26 @@ To reach out to the current members of GradSAC, email us at [gradsac@cs.utah.edu
 
 #### Fall 2023 — Fall 2024
 
-| Position | Person |
-| --- | --- |
-| President | Jakob Johnson | 
-| Vice President | Soham Bagchi | 
-| Treasurer | — |
-| New Student Facilitator | — |
-| Secretary | — |
-| Communications Coordinator | Ramansh Sharma |
-| Social Event Coordinator  | Benjamin Mastripolito |
+| Position                   | Person                                         |
+| -------------------------- | ---------------------------------------------- |
+| President                  | [Jakob Johnson](mailto:jakob.johnson@utah.edu) |
+| Vice President             | [Soham Bagchi](soham.bagchi@utah.edu)          |
+| Treasurer                  | Shreyas Singh                                  |
+| New Student Facilitator    | Jarrett Minton                                 |
+| Secretary                  | Chloe Pronovost                                |
+| Communications Coordinator | Ramansh Sharma                                 |
+| Social Event Coordinator   | Benjamin Mastripolito                          |
 
 
 ### Past Officers
 
 #### Fall 2022 — Fall 2023
 
-| Position | Person |
-| --- | --- |
-| President | Jakob Johnson | 
-| Vice President | Ahn Tran | 
-| New Student Facilitator | Noelle Brown |
-| Secretary | Alper Sahistan |
-| Communications Coordinator | Prikshit Tekta |
-| Social Event Coordinator  | Ben Mastripolito |
+| Position                   | Person           |
+| -------------------------- | ---------------- |
+| President                  | Jakob Johnson    |
+| Vice President             | Ahn Tran         |
+| New Student Facilitator    | Noelle Brown     |
+| Secretary                  | Alper Sahistan   |
+| Communications Coordinator | Prikshit Tekta   |
+| Social Event Coordinator   | Ben Mastripolito |
