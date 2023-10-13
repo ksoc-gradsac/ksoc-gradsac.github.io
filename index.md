@@ -13,15 +13,15 @@ To reach out to the current members of GradSAC, email us at [gradsac@cs.utah.edu
 
 #### Fall 2023 — Fall 2024
 
-| Position                   | Person                                                 |                                                                                     |
-| -------------------------- | ------------------------------------------------------ | :---------------------------------------------------------------------------------: |
-| President                  | Jakob Johnson ([email](mailto:jakob.johnson@utah.edu)) | <img src="assets/images/portraits/jakob.jpg" alt="Jakob" width="33%" height="auto"> |
-| Vice President             | Soham Bagchi ([email](mailto:soham.bagchi@utah.edu))   | <img src="assets/images/portraits/soham.jpg" alt="Soham" width="33%" height="auto"> |
-| Treasurer                  | Shreyas Singh                                          |                                                                                     |
-| New Student Facilitator    | Jarrett Minton                                         |                                                                                     |
-| Secretary                  | Chloe Pronovost                                        |                                                                                     |
-| Communications Coordinator | Ramansh Sharma                                         | <img src="assets/images/portraits/ram.jpg" alt="Ramansh" width="33%" height="auto"> |
-| Social Event Coordinator   | Benjamin Mastripolito                                  |                                                                                     |
+| Position                   | Person                                                 |                                                                                         |
+| -------------------------- | ------------------------------------------------------ | :-------------------------------------------------------------------------------------: |
+| President                  | Jakob Johnson ([email](mailto:jakob.johnson@utah.edu)) |   <img src="assets/images/portraits/jakob.jpg" alt="Jakob" width="33%" height="auto">   |
+| Vice President             | Soham Bagchi ([email](mailto:soham.bagchi@utah.edu))   |   <img src="assets/images/portraits/soham.jpg" alt="Soham" width="33%" height="auto">   |
+| Treasurer                  | Shreyas Singh                                          | <img src="assets/images/portraits/shreyas.jpg" alt="Shreyas" width="33%" height="auto"> |
+| New Student Facilitator    | Jarrett Minton                                         |                                                                                         |
+| Secretary                  | Chloe Pronovost                                        |                                                                                         |
+| Communications Coordinator | Ramansh Sharma                                         |   <img src="assets/images/portraits/ram.jpg" alt="Ramansh" width="33%" height="auto">   |
+| Social Event Coordinator   | Benjamin Mastripolito                                  |                                                                                         |
 
 
 ### Past Officers
