@@ -38,6 +38,7 @@ To reach out to the current members of GradSAC, email us at [gradsac@cs.utah.edu
 | Social Event Coordinator   | Ben Mastripolito |
 
 #### Fall 2021 — Fall 2022
+
 | Position                   | Person           |
 | -------------------------- | ---------------- |
 | President                  | Noelle Brown     |
@@ -50,6 +51,7 @@ To reach out to the current members of GradSAC, email us at [gradsac@cs.utah.edu
 | Social Event Coordinator   | Daniel Fang |
 
 #### Fall 2020 — Fall 2021
+
 | Position                   | Person           |
 | -------------------------- | ---------------- |
 | President                  | [Devin Lange](https://www.devinlange.com/)     |
