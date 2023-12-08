@@ -32,7 +32,32 @@ To reach out to the current members of GradSAC, email us at [gradsac@cs.utah.edu
 | -------------------------- | ---------------- |
 | President                  | Jakob Johnson    |
 | Vice President             | Ahn Tran         |
-| New Student Facilitator    | Noelle Brown     |
 | Secretary                  | Alper Sahistan   |
+| New Student Facilitator    | Noelle Brown     |
 | Communications Coordinator | Prikshit Tekta   |
 | Social Event Coordinator   | Ben Mastripolito |
+
+#### Fall 2021 — Fall 2022
+| Position                   | Person           |
+| -------------------------- | ---------------- |
+| President                  | Noelle Brown     |
+| Vice President             | Mahesh Lakshminarasimhan         |
+| Treasurer                  | Madi Cooley        |
+| Secretary                  | Shreyas Singh   |
+| New Student Facilitator    | Yo Mizutani     |
+| Communications Coordinator | [Devin Lange](https://www.devinlange.com/)   |
+| Social Event Coordinator   | Ahn Tran |
+| Social Event Coordinator   | Daniel Fang |
+
+#### Fall 2020 — Fall 2021
+| Position                   | Person           |
+| -------------------------- | ---------------- |
+| President                  | [Devin Lange](https://www.devinlange.com/)     |
+| Vice President             | Mahesh Lakshminarasimhan         |
+| Treasurer                  | Madi Cooley        |
+| New Student Facilitator    | Frost Mitchell     |
+| Communications Coordinator |  Anh Tran  |
+| Social Event Coordinator   | Martin Matak |
+
+
+
