@@ -16,7 +16,15 @@ A bi-weekly graduate student-run event, Thursdays at 5pm in the LCR. Feel free t
 
 The Undistinguished Lecture Series (UDLS) is a set of talks given by (typically) grad students in the School of Computing at the University of Utah. UDLS gives us a chance to learn about the incredibly vast interests of our fellow grad students, while also practicing our speaking skills. There is only one rule: you must present an original topic that does not pertain to your research.
 
-## Fall 2023 (Current)
+## Past UDLS Lineups
+
+### Spring 2024 (Current)
+
+| Date       | Speaker                                           | Topic                                                                   |
+| ---------- | ------------------------------------------------- | ----------------------------------------------------------------------- |
+|            |                                                   |                                                                         |
+
+### Fall 2023
 
 | Date       | Speaker                                           | Topic                                                                   |
 | ---------- | ------------------------------------------------- | ----------------------------------------------------------------------- |
@@ -27,8 +35,6 @@ The Undistinguished Lecture Series (UDLS) is a set of talks given by (typically)
 | 2023-11-02 | Elie Diaz                                         | Barbershop Quartetting: An Hour with Mischief Quartet                   |
 | 2023-11-16 | [Ashton Wiersdorf](https://lambdaland.org/)       | Zen and the Art of Software Maintenance, or: Gumption, Tools, and Traps |
 | 2023-11-30 | Harvey Dam                                        | How to Play Concertos Alone                                             |
-
-## Past UDLS Lineups
 
 ### Spring 2023
 
