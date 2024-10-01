@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Welcome! The Graduate Student Advisory Committee (GradSAC) is a graduate student organization run by students for students. In a nutshell, our purpose is to improve the graduate student experience in the Kahlert School of Computing at the University of Utah. If you want to leave the nutshell and see a more in-depth explanation of what we do, check out our [constitution](https://drive.google.com/file/d/1quE9axBw747G0D-PY_Vi0XyriTN6xwJP/view)!
+Welcome! The Graduate Student Advisory Committee (GradSAC) is a graduate student organization run by students for students. In a nutshell, our purpose is to improve the graduate student experience in the Kahlert School of Computing at the University of Utah. If you want to leave the nutshell and see a more in-depth explanation of what we do, check out our [Constitution](https://drive.google.com/file/d/1fuZcv0qsVIz6rAbs1W2r-FV1N1dyCi5y/view?usp=drive_link)!
 
 ### Contact Info
 To reach out to the current members of GradSAC, email us at [gradsac@cs.utah.edu](mailto:gradsac@cs.utah.edu), or post on the #gradsac channel of the Kahlert School of Computing Slack!
