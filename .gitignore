@@ -6,3 +6,5 @@ vendor
 
 .bundle/
 vendor/
+
+Gemfile.lock
