@@ -11,7 +11,7 @@ jobs:
   # Build job
   build:
     name: Build 🛠️
-    runs-on: ubuntu-latest
+    runs-on: alpine-latest
     steps:
       - name: Checkout 👇
         uses: actions/checkout@v3
