@@ -9,22 +9,32 @@ Welcome! The Graduate Student Advisory Committee (GradSAC) is a graduate student
 
 ### Contact Info
 To reach out to the current members of GradSAC, email us at [gradsac@cs.utah.edu](mailto:gradsac@cs.utah.edu), or post on the #gradsac channel of the Kahlert School of Computing Slack!
+
 ### Current Officers
+
+#### Fall 2024 — Fall 2025
+
+| Position                | Person                                               |                                                                                         |
+| ----------------------- | ---------------------------------------------------- | :-------------------------------------------------------------------------------------: |
+| President               | Soham Bagchi ([email](mailto:soham.bagchi@utah.edu)) |   <img src="assets/images/portraits/soham.jpg" alt="Soham" width="33%" height="auto">   |
+| Vice President          | Ramansh Sharma ([email](mailto:ramansh@cs.utah.edu)) |     <img src="assets/images/portraits/ram.jpg" alt="Ram" width="33%" height="auto">     |
+| Treasurer               | Neeraj Prabhu                                        |   <img src="assets/images/portraits/neeraj.jpg" alt="Neeraj" width="33%" height="auto">    |
+| Secretary               | Hastin Kapoor                                        |   <img src="assets/images/portraits/hastin.jpg" alt="Hastin" width="33%" height="auto">    |
+| New Student Coordinator | Jarrett Minton                                       | <img src="assets/images/portraits/jarrett.jpg" alt="Jarrett" width="33%" height="auto"> |
+                                                      
+### Past Officers
 
 #### Fall 2023 — Fall 2024
 
-| Position                   | Person                                                 |                                                                                         |
-| -------------------------- | ------------------------------------------------------ | :-------------------------------------------------------------------------------------: |
-| President                  | Jakob Johnson ([email](mailto:jakob.johnson@utah.edu)) |   <img src="assets/images/portraits/jakob.jpg" alt="Jakob" width="33%" height="auto">   |
-| Vice President             | Soham Bagchi ([email](mailto:soham.bagchi@utah.edu))   |   <img src="assets/images/portraits/soham.jpg" alt="Soham" width="33%" height="auto">   |
-| Treasurer                  | Shreyas Singh                                          | <img src="assets/images/portraits/shreyas.jpg" alt="Shreyas" width="33%" height="auto"> |
-| New Student Facilitator    | Jarrett Minton                                         | <img src="assets/images/portraits/jarrett.jpg" alt="Jarrett" width="33%" height="auto"> |
-| Secretary                  | Chloe Pronovost                                        |   <img src="assets/images/portraits/chloe.jpg" alt="Chloe" width="33%" height="auto">   |
-| Communications Coordinator | Ramansh Sharma                                         |   <img src="assets/images/portraits/ram.jpg" alt="Ramansh" width="33%" height="auto">   |
-| Social Event Coordinator   | Benjamin Mastripolito                                  |     <img src="assets/images/portraits/ben.jpg" alt="Ben" width="33%" height="auto">     |
-
-
-### Past Officers
+| Position                   | Person                |
+| -------------------------- | --------------------- |
+| President                  | Jakob Johnson         |
+| Vice President             | Soham Bagchi          |
+| Treasurer                  | Shreyas Singh         |
+| New Student Facilitator    | Jarrett Minton        |
+| Secretary                  | Chloe Pronovost       |
+| Communications Coordinator | Ramansh Sharma        |
+| Social Event Coordinator   | Benjamin Mastripolito |
 
 #### Fall 2022 — Fall 2023
 
@@ -39,27 +49,25 @@ To reach out to the current members of GradSAC, email us at [gradsac@cs.utah.edu
 
 #### Fall 2021 — Fall 2022
 
-| Position                   | Person           |
-| -------------------------- | ---------------- |
-| President                  | Noelle Brown     |
-| Vice President             | Mahesh Lakshminarasimhan         |
-| Treasurer                  | Madi Cooley        |
-| Secretary                  | Shreyas Singh   |
-| New Student Facilitator    | Yo Mizutani     |
-| Communications Coordinator | [Devin Lange](https://www.devinlange.com/)   |
-| Social Event Coordinator   | Ahn Tran |
-| Social Event Coordinator   | Daniel Fang |
+| Position                   | Person                                     |
+| -------------------------- | ------------------------------------------ |
+| President                  | Noelle Brown                               |
+| Vice President             | Mahesh Lakshminarasimhan                   |
+| Treasurer                  | Madi Cooley                                |
+| Secretary                  | Shreyas Singh                              |
+| New Student Facilitator    | Yo Mizutani                                |
+| Communications Coordinator | [Devin Lange](https://www.devinlange.com/) |
+| Social Event Coordinator   | Ahn Tran                                   |
+| Social Event Coordinator   | Daniel Fang                                |
 
 #### Fall 2020 — Fall 2021
 
-| Position                   | Person           |
-| -------------------------- | ---------------- |
-| President                  | [Devin Lange](https://www.devinlange.com/)     |
-| Vice President             | Mahesh Lakshminarasimhan         |
-| Treasurer                  | Madi Cooley        |
-| New Student Facilitator    | Frost Mitchell     |
-| Communications Coordinator |  Anh Tran  |
-| Social Event Coordinator   | Martin Matak |
-
-
+| Position                   | Person                                     |
+| -------------------------- | ------------------------------------------ |
+| President                  | [Devin Lange](https://www.devinlange.com/) |
+| Vice President             | Mahesh Lakshminarasimhan                   |
+| Treasurer                  | Madi Cooley                                |
+| New Student Facilitator    | Frost Mitchell                             |
+| Communications Coordinator | Anh Tran                                   |
+| Social Event Coordinator   | Martin Matak                               |
 
