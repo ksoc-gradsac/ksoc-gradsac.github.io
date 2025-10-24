@@ -14,15 +14,25 @@ To reach out to the current members of GradSAC, email us at [gradsac@cs.utah.edu
 
 #### Fall 2024 — Fall 2025
 
-| Position                | Person                                               |                                                                                         |
-| ----------------------- | ---------------------------------------------------- | :-------------------------------------------------------------------------------------: |
-| President               | Soham Bagchi ([email](mailto:soham.bagchi@utah.edu)) |   <img src="assets/images/portraits/soham.jpg" alt="Soham" width="33%" height="auto">   |
-| Vice President          | Ramansh Sharma ([email](mailto:ramansh@cs.utah.edu)) |     <img src="assets/images/portraits/ram.jpg" alt="Ram" width="33%" height="auto">     |
-| Treasurer               | Neeraj Prabhu                                        |   <img src="assets/images/portraits/neeraj.jpg" alt="Neeraj" width="33%" height="auto">    |
-| Secretary               | Hastin Kapoor                                        |   <img src="assets/images/portraits/hastin.jpg" alt="Hastin" width="33%" height="auto">    |
-| New Student Coordinator | Jarrett Minton                                       | <img src="assets/images/portraits/jarrett.jpg" alt="Jarrett" width="33%" height="auto"> |
+| Position                | Person          |                                                                                     |
+| ----------------------- | --------------- | :---------------------------------------------------------------------------------: |
+| President               | Colin Galbraith | <img src="assets/images/portraits/colin.jpg" alt="Colin" width="33%" height="auto"> |
+| Vice President          | David Yue       | <img src="assets/images/portraits/david.jpg" alt="David" width="33%" height="auto"> |
+| Treasurer               | Leo Sciortino   |   <img src="assets/images/portraits/leo.jpg" alt="Leo" width="33%" height="auto">   |
+| Secretary               | Mary Ogunmola   |  <img src="assets/images/portraits/mary.jpg" alt="Mary" width="33%" height="auto">  |
+| New Student Coordinator | Dylan McKellips | <img src="assets/images/portraits/dylan.jpg" alt="Dylan" width="33%" height="auto"> |
                                                       
 ### Past Officers
+
+#### Fall 2024 - Fall 2025
+
+| Position                | Person         |
+| ----------------------- | -------------- |
+| President               | Soham Bagchi   |
+| Vice President          | Ramansh Sharma |
+| Treasurer               | Neeraj Prabhu  |
+| Secretary               | Hastin Kapoor  |
+| New Student Coordinator | Jarrett Minton |
 
 #### Fall 2023 — Fall 2024
 
