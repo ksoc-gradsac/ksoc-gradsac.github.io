@@ -12,7 +12,7 @@ To reach out to the current members of GradSAC, email us at [gradsac@cs.utah.edu
 
 ### Current Officers
 
-#### Fall 2024 — Fall 2025
+#### Fall 2025 — Fall 2026
 
 | Position                | Person          |                                                                                     |
 | ----------------------- | --------------- | :---------------------------------------------------------------------------------: |
